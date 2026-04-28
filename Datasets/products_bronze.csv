@@ -1,0 +1,146 @@
+product_id,product_name,purchase_price,sell_price,category,base_price,status,supplier_id
+S01_01,Rice Basmati,42,60,S,60,Active,SUP003
+S01_02,Rice Regular,36,52,S,52,Active,SUP001
+S01_03,Wheat Flour,22,35,S,35,Active,SUP003
+S01_04,Ragi Flour,25,40,S,40,Active,SUP001
+S01_05,Maida,18,30,S,30,Active,SUP002
+S01_06,Toor Dal,80,110,S,110,Active,SUP003
+S01_07,Moong Dal,70,100,S,100,Active,SUP002
+S01_08,Urad Dal,65,95,S,95,Active,SUP001
+S01_09,Chana Dal,50,75,S,75,Active,SUP004
+S01_10,Sugar White,28,40,S,40,Active,SUP003
+D01_01,Milk Toned,28,45,D,45,Active,SUP005
+D01_02,Milk Full Cream,35,55,D,55,Active,SUP006
+D01_03,Curd,40,60,D,60,Active,SUP005
+D01_04,Butter,160,220,D,220,Active,SUP007
+D01_05,Paneer,70,100,D,100,Active,SUP007
+D01_06,Ghee,300,420,D,420,Active,SUP006
+D01_07,Cheese Slices,120,170,D,170,Active,SUP005
+D01_08,Milk Powder,190,260,D,260,Active,SUP007
+D01_09,Fresh Cream,60,90,D,90,Active,SUP006
+D01_10,Eggs,48,70,D,70,Active,SUP007
+SN01_01,Marie Biscuits,18,30,SN,30,Active,SUP010
+SN01_02,Cream Biscuits,20,35,SN,35,Active,SUP008
+SN01_03,Salted Chips,10,20,SN,20,Active,SUP010
+SN01_04,Masala Chips,11,22,SN,22,Active,SUP008
+SN01_05,Banana Chips,30,50,SN,50,Active,SUP010
+SN01_06,Namkeen Mix,28,45,SN,45,Active,SUP009
+SN01_07,Roasted Peanuts,40,65,SN,65,Active,SUP010
+SN01_08,Popcorn,25,40,SN,40,Active,SUP008
+SN01_09,Cookies Chocolate,30,50,SN,50,Active,SUP008
+SN01_10,Energy Bar,40,65,SN,65,Active,SUP009
+BV01_01,Tea Powder,80,120,BV,120,Active,SUP014
+BV01_02,Coffee Powder,140,200,BV,200,Active,SUP014
+BV01_03,Instant Coffee,120,170,BV,170,Active,SUP013
+BV01_04,Green Tea,60,90,BV,90,Active,SUP014
+BV01_05,Soft Drink Cola,60,90,BV,90,Active,SUP014
+BV01_06,Fruit Juice Mango,70,100,BV,100,Active,SUP012
+BV01_07,Lemon Drink,25,40,BV,40,Active,SUP014
+BV01_08,Energy Drink,60,95,BV,95,Active,SUP014
+BV01_09,Packaged Water,8,15,BV,15,Active,SUP013
+BV01_10,Iced Tea,30,50,BV,50,Active,SUP013
+CS01_01,Milk Chocolate,30,50,CS,50,Active,SUP018
+CS01_02,Dark Chocolate,45,70,CS,70,Active,SUP015
+CS01_03,Toffees Pack,25,40,CS,40,Active,SUP017
+CS01_04,Candy Pack,20,35,CS,35,Active,SUP017
+CS01_05,Gummies,30,50,CS,50,Active,SUP018
+CS01_06,Wafer Chocolate,10,20,CS,20,Active,SUP017
+CS01_07,Gift Box Chocolates,160,240,CS,240,Active,SUP015
+CS01_08,Indian Sweets Box,70,100,CS,100,Active,SUP018
+CS01_09,Kaju Katli,260,380,CS,380,Active,SUP015
+CS01_10,Laddu Pack,120,170,CS,170,Active,SUP018
+PC01_01,Bath Soap,18,30,PC,30,Active,SUP020
+PC01_02,Body Wash,80,120,PC,120,Active,SUP019
+PC01_03,Shampoo,120,180,PC,180,Active,SUP021
+PC01_04,Conditioner,90,140,PC,140,Active,SUP021
+PC01_05,Toothpaste,30,50,PC,50,Active,SUP019
+PC01_06,Toothbrush,15,30,PC,30,Active,SUP021
+PC01_07,Hand Sanitizer,40,70,PC,70,Active,SUP021
+PC01_08,Face Wash,50,85,PC,85,Active,SUP019
+PC01_09,Deodorant,120,180,PC,180,Active,SUP019
+PC01_10,Sunscreen,140,220,PC,220,Active,SUP021
+HC01_01,Detergent Powder,80,120,HC,120,Active,SUP024
+HC01_02,Detergent Liquid,95,140,HC,140,Active,SUP024
+HC01_03,Fabric Softener,85,130,HC,130,Active,SUP023
+HC01_04,Dish Wash Liquid,40,65,HC,65,Active,SUP023
+HC01_05,Floor Cleaner,50,85,HC,85,Active,SUP023
+HC01_06,Toilet Cleaner,40,70,HC,70,Active,SUP022
+HC01_07,Garbage Bags,35,60,HC,60,Active,SUP023
+HC01_08,Napkins,25,45,HC,45,Active,SUP022
+HC01_09,Paper Towels,30,55,HC,55,Active,SUP022
+HC01_10,Room Freshener,85,130,HC,130,Active,SUP023
+RTC01_01,Instant Noodles,12,25,RTC,25,Active,SUP026
+RTC01_02,Pasta,55,85,RTC,85,Active,SUP026
+RTC01_03,Ready Rice,40,65,RTC,65,Active,SUP027
+RTC01_04,Upma Mix,35,60,RTC,60,Active,SUP026
+RTC01_05,Idli Mix,60,95,RTC,95,Active,SUP027
+RTC01_06,Soup Mix,30,50,RTC,50,Active,SUP025
+RTC01_07,Frozen Paratha,45,75,RTC,75,Active,SUP027
+RTC01_08,Frozen Snacks,60,100,RTC,100,Active,SUP026
+RTC01_09,Tomato Sauce,40,70,RTC,70,Active,SUP025
+RTC01_10,Peanut Butter,110,160,RTC,160,Active,SUP025
+SP01_01,Turmeric Powder,20,35,SP,35,Active,SUP028
+SP01_02,Chilli Powder,25,40,SP,40,Active,SUP030
+SP01_03,Coriander Powder,20,35,SP,35,Active,SUP029
+SP01_04,Garam Masala,30,50,SP,50,Active,SUP028
+SP01_05,Cumin Seeds,20,35,SP,35,Active,SUP028
+SP01_06,Mustard Seeds,18,30,SP,30,Active,SUP028
+SP01_07,Pepper Powder,40,65,SP,65,Active,SUP030
+SP01_08,Cloves,55,85,SP,85,Active,SUP030
+SP01_09,Cardamom,90,130,SP,130,Active,SUP029
+SP01_10,Biryani Masala,35,55,SP,55,Active,SUP030
+FV01_01,Onion,18,30,FV,30,Active,SUP031
+FV01_02,Potato,18,30,FV,30,Active,SUP032
+FV01_03,Tomato,20,35,FV,35,Active,SUP031
+FV01_04,Carrot,30,50,FV,50,Active,SUP031
+FV01_05,Apple,80,120,FV,120,Active,SUP033
+FV01_06,Banana,30,50,FV,50,Active,SUP032
+FV01_07,Grapes,120,180,FV,180,Active,SUP033
+FV01_08,Mango,90,140,FV,140,Active,SUP033
+FV01_09,Lemon,40,60,FV,60,Active,SUP032
+FV01_10,Garlic,90,140,FV,140,Active,SUP031
+BC01_01,Baby Diapers,90,140,BC,140,Active,SUP034
+BC01_02,Baby Wipes,60,95,BC,95,Active,SUP035
+BC01_03,Baby Shampoo,80,120,BC,120,Active,SUP034
+BC01_04,Baby Lotion,90,140,BC,140,Active,SUP035
+BC01_05,Baby Formula,400,580,BC,580,Active,SUP035
+BC01_06,Baby Food Cereal,120,180,BC,180,Active,SUP036
+BC01_07,Feeding Bottle,80,130,BC,130,Active,SUP035
+BC01_08,Diaper Rash Cream,80,120,BC,120,Active,SUP036
+BC01_09,Baby Powder,60,95,BC,95,Active,SUP034
+BC01_10,Baby Soap,18,35,BC,35,Active,SUP034
+PET01_01,Dog Food,120,180,PET,180,Active,SUP037
+PET01_02,Cat Food,110,170,PET,170,Active,SUP037
+PET01_03,Pet Shampoo,80,120,PET,120,Active,SUP039
+PET01_04,Pet Treats,90,140,PET,140,Active,SUP037
+PET01_05,Pet Toy,80,140,PET,140,Active,SUP038
+KU01_01,Cooking Oil Sunflower,120,170,KU,170,Active,SUP041
+KU01_02,Cooking Oil Groundnut,140,200,KU,200,Active,SUP041
+KU01_03,Cooking Oil Coconut,130,185,KU,185,Active,SUP042
+KU01_04,Pressure Cooker,900,1300,KU,1300,Active,SUP040
+KU01_05,Frying Pan,450,700,KU,700,Active,SUP040
+KU01_06,Tawa,300,480,KU,480,Active,SUP040
+KU01_07,Storage Container Set,350,520,KU,520,Active,SUP042
+KU01_08,Lunch Box,220,350,KU,350,Active,SUP041
+KU01_09,Plates Set,450,700,KU,700,Active,SUP041
+KU01_10,Cups Set,300,480,KU,480,Active,SUP040
+EL01_01,LED Bulb,40,70,EL,70,Active,SUP044
+EL01_02,Extension Board,200,320,EL,320,Active,SUP044
+EL01_03,Power Bank,600,950,EL,950,Active,SUP045
+EL01_04,USB Cable,60,110,EL,110,Active,SUP045
+EL01_05,Earphones,150,280,EL,280,Active,SUP045
+EL01_06,Batteries AA,70,120,EL,120,Active,SUP045
+EL01_07,Torch,150,260,EL,260,Active,SUP043
+EL01_08,Emergency Light,400,650,EL,650,Active,SUP045
+EL01_09,Electric Kettle,700,1100,EL,1100,Active,SUP044
+EL01_10,Mobile Charger,350,560,EL,560,Active,SUP043
+ST01_01,Notebook,30,55,ST,55,Active,SUP047
+ST01_02,Ball Pen Pack,40,75,ST,75,Active,SUP047
+ST01_03,Pencil Pack,25,45,ST,45,Active,SUP047
+ST01_04,Marker,20,40,ST,40,Active,SUP048
+ST01_05,Eraser,6,15,ST,15,Active,SUP048
+ST01_06,Sharpener,6,15,ST,15,Active,SUP046
+ST01_07,File Folder,25,50,ST,50,Active,SUP046
+ST01_08,Stapler,80,140,ST,140,Active,SUP048
+ST01_09,Sticky Notes,40,70,ST,70,Active,SUP047
+ST01_10,Calculator,180,300,ST,300,Active,SUP046
